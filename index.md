@@ -1,12 +1,12 @@
-404 NOT FOUND，sorry baby~
+404 NOT FOUND，sorry my baby pan xia ying
 ## Welcome to GitHub Pages
-
+欢迎来到石淦文的github啊，潘夏荧噜噜噜
 You can use the [editor on GitHub](https://github.com/Best1manIn17sessionNIT/Yougotnoshot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+我爱潘夏荧！
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+潘夏荧是石淦文老婆。
 ### Markdown
-
+啦啦啦
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
